@@ -5,7 +5,6 @@ Created on Wed Mar 15 16:07:35 2023
 
 @author: fernando.cruz7
 """
-LIMITE = 100
 
 while True:
     try:
